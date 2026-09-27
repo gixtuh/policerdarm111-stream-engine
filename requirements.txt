@@ -1,0 +1,6 @@
+requests
+scratchattach
+Pillow
+SpeechRecognition
+PyAudio
+webrtcvad
