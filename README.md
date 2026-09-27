@@ -36,6 +36,13 @@ the code is definitely not 100% ai generated (fyi this is sarcasm)
 - go to the sprite "viewer" in your project and click costumes
 - change the "viewer oc" costume
 
+## to change the thumbnail
+- go to the sprite "thumbnail" in your project and click costumes
+- change costume images2
+- delete costume images3
+- duplicate images2 and name it images3
+- turn images3 bitmap and then back to vector
+
 ## to change the background
 - go to stage then click costumes
 - change the background and change both of the costumes
