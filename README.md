@@ -56,7 +56,8 @@ the code is definitely not 100% ai generated (fyi this is sarcasm)
 - yes
 - go to "stage"
 - find "username = Policerdarm111" and change the "Policerdarm111" to your username
-- that should be all
+<hr/>
+- when you're changing music there is a "play sound (pick random 1 to 8)" change the 8 to the amount of music that you have imported into your remixed project
 
 ## banning people (idk why i added that)
 - go to "offline screen"
