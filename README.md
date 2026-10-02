@@ -48,9 +48,12 @@ the code is definitely not 100% ai generated (fyi this is sarcasm)
 - change the background and change both of the costumes
 - if you want to then you can also change the purple stream frame (not to be confused with the steam frame) to match your username and not policerdarm111
 
-## more stuff
+## it treats my phrases as comments what do i do
 - go to "encoder"
 - find "speaker (decoded) = Policerdarm111" and change the "Policerdarm111" to your username
+
+## is there more stuff
+- yes
 - go to "stage"
 - find "username = Policerdarm111" and change the "Policerdarm111" to your username
 - that should be all
