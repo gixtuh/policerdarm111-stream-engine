@@ -51,3 +51,6 @@ the code is definitely not 100% ai generated (fyi this is sarcasm)
 ## more stuff
 - go to "encoder"
 - find "speaker (decoded) = Policerdarm111" and change the "Policerdarm111" to your username
+- go to "stage"
+- find "username = Policerdarm111" and change the "Policerdarm111" to your username
+- that should be all
