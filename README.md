@@ -54,3 +54,7 @@ the code is definitely not 100% ai generated (fyi this is sarcasm)
 - go to "stage"
 - find "username = Policerdarm111" and change the "Policerdarm111" to your username
 - that should be all
+
+## banning people (idk why i added that)
+- go to "offline screen"
+- find a "when green flag clicked" hat block with the note saying `add stuff to "he BANNED these users:" to add users to ban` and uh yeah add something to the user ban list
