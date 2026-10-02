@@ -47,3 +47,7 @@ the code is definitely not 100% ai generated (fyi this is sarcasm)
 - go to stage then click costumes
 - change the background and change both of the costumes
 - if you want to then you can also change the purple stream frame (not to be confused with the steam frame) to match your username and not policerdarm111
+
+## more stuff
+- go to "encoder"
+- find "speaker (decoded) = Policerdarm111" and change the "Policerdarm111" to your username
