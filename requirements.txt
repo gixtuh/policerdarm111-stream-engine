@@ -3,5 +3,4 @@ scratchattach
 Pillow
 SpeechRecognition
 PyAudio
-webrtcvad
-webrtcvad-wheels
+webrtcvad-wheels==2.0.14.post1
