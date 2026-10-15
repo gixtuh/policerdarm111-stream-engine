@@ -3,19 +3,35 @@
 
 when i say scratch i mean the block coding website yeah so we use scratch to create a streaming service
 
-you need to be a scratcher for this
-
 - [the template project (remix this one)](https://scratch.mit.edu/projects/1383239577/)
 
-run `pip install -r requirements.txt` and then in main.py set variable USERNAME to your scratch username and variable PASSWORD to the password
+run `pip install -r requirements.txt` and then edit `main.py`
 
-this seems very sus but in order to use cloud variables you need to sign into a scratch account otherwise it's not possible because scratch
+in `main.py` set variable `USERNAME` to your scratch username and variable `PASSWORD` to your scratch password (This is required because scratch won't even **DARE** let you access cloud variables if you're unauthenticated.) (You're gonna have to have the "Scratcher" label on your profile)
 
-then set variable PROJECT_ID to your remixed project id
+then set variable `PROJECT_ID` to your remixed project id
 
-run main.py
+run `main.py`
 
 literally you're done go stream
+
+<hr />
+
+# to put it short it's just this
+
+```
+git clone https://github.com/gixtuh/policerdarm111-stream-engine
+cd policerdarm111-stream-engine
+pip install -r requirements.txt
+code main.py # make sure you have visual studio code
+```
+
+- change `USERNAME` to your scratch username
+- change `PASSWORD` to your scratch password (required TO stream, you can't stream unauthenticated)
+- change `PROJECT_ID` to your remixed project id
+- `python ./main.py` to run the script
+
+<hr />
 
 ## features
 - live comment reader
@@ -55,10 +71,10 @@ the code is definitely not 100% ai generated (fyi this is sarcasm)
 ## is there more stuff
 - yes
 - go to "stage"
-- find "username = Policerdarm111" and change the "Policerdarm111" to your username
+- find "username = Policerdarm111" and change the "Policerdarm111" to your username, this is to let you access the debug stuff
 <hr/>
 
-  - when you're changing music there is a "play sound (pick random 1 to 8)" change the 8 to the amount of music that you have imported into your remixed project
+- when you're changing music there is a "play sound (pick random 1 to 8)" change the 8 to the amount of music that you have imported into your remixed project
 
 ## banning people (idk why i added that)
 - go to "offline screen"
